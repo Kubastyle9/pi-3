@@ -7,3 +7,7 @@ fruits = {
 name = input('эмне аласын? ')
 
 print(fruits.get(name, 'жок'))
+
+
+bvyufiyuvvuyv
+inini
